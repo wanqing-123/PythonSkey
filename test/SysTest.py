@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# by ayalamih on 8 Oct., 2016
+# by ayalamih on Oct. 8, 2016
 # 
 
 import sys, getopt
